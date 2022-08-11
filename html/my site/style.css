@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;  
+}
+
+.section1hr {
+    height: 5px;
+    background-color: rgba(26, 0, 99, 0.596)
+}
+.section1{
+    background-color: rgba(66, 16, 73, 0.493);
+}
+.section2{
+    background-color: rgba(71, 61, 139, 0.493);
+}
+
+a {
+    color: rgb(255, 0, 130);
+}
+
+a:hover {
+    color: rgb(255,127,0)
+}
+
+a:active {
+    color: rgb(0,255,127)
+}
