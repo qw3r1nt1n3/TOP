@@ -1,20 +1,38 @@
-body{
+
+
+main{
     font-family: Arial, Helvetica, sans-serif;
+
 }
 
 h1 {
-  text-align: center;  
+  text-align: center; 
+  border-bottom: solid 5px rgba(119, 16, 167, 0.295);
+  background-color: rgba(26, 0, 99, 0.596);
+  margin: 10px;
+  padding: 10px;
 }
 
-.section1hr {
-    height: 5px;
-    background-color: rgba(26, 0, 99, 0.596)
-}
+
 .section1{
     background-color: rgba(66, 16, 73, 0.493);
+    border-bottom: solid 5px rgba(119, 16, 167, 0.295);
+    padding: 5px;
+    margin: 50px
 }
 .section2{
     background-color: rgba(71, 61, 139, 0.493);
+    border-bottom: solid 5px rgba(119, 16, 167, 0.295);
+    padding: 5px;
+    margin: 10px;
+}
+
+h3 {
+    padding: 0px 10px;
+}
+
+h2{
+    padding: 0px 10px;
 }
 
 a {
